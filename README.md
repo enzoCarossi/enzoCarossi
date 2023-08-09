@@ -14,7 +14,7 @@
 
 ---
 
-### Acerca de mí
+### 🤵 Acerca de mí
 
 - 🧑‍💻 Experto en HTML, CSS, JavaScript y Python; adquiriendo conocimientos en Java y COBOL.
 
@@ -37,6 +37,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="workbench" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="40" height="40">
 </div>
+
+### 😎 habilidades blandas 
+
+- comunicación efectiva, trabajo en equipo, resolución de conflictos, empatía, pensamiento critico, creatividad, adaptabilidad, colaboración, habilidades de negociación y autoconciencia
 
 ---
 
