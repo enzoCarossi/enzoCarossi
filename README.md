@@ -26,9 +26,9 @@
 
 - 🕶️ Comprometido con la innovación, el aprendizaje constante y contribuciones positivas en el desarrollo web
 
-### 😎 habilidades blandas 
+### 😎 Habilidades blandas 
 
-- comunicación efectiva, trabajo en equipo, resolución de conflictos, empatía, pensamiento critico, creatividad, adaptabilidad, colaboración, habilidades de negociación y autoconciencia
+- Comunicación efectiva, trabajo en equipo, resolución de conflictos, empatía, pensamiento critico, creatividad, adaptabilidad, colaboración, habilidades de negociación y autoconciencia
   
 <div align="left">
 <h3>🧰 Lenguajes y herramientas</h3>
