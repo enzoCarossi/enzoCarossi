@@ -25,6 +25,10 @@
 - 🖥️ Interesado en la creación de aplicaciones web excepcionales que combinen funcionalidad y diseño
 
 - 🕶️ Comprometido con la innovación, el aprendizaje constante y contribuciones positivas en el desarrollo web
+
+### 😎 habilidades blandas 
+
+- comunicación efectiva, trabajo en equipo, resolución de conflictos, empatía, pensamiento critico, creatividad, adaptabilidad, colaboración, habilidades de negociación y autoconciencia
   
 <div align="left">
 <h3>🧰 Lenguajes y herramientas</h3>
@@ -37,10 +41,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="workbench" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="40" height="40">
 </div>
-
-### 😎 habilidades blandas 
-
-- comunicación efectiva, trabajo en equipo, resolución de conflictos, empatía, pensamiento critico, creatividad, adaptabilidad, colaboración, habilidades de negociación y autoconciencia
 
 ---
 
