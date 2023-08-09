@@ -28,7 +28,16 @@
 
 ### 😎 Habilidades blandas 
 
-- Comunicación efectiva, trabajo en equipo, resolución de conflictos, empatía, pensamiento critico, creatividad, adaptabilidad, colaboración, habilidades de negociación y autoconciencia
+- Comunicación efectiva
+- Trabajo en equipo
+- Resolución de conflictos
+- Empatía
+- Pensamiento critico
+- Creatividad
+- Adaptabilidad
+- Colaboración
+- Habilidades de negociación
+- Autoconciencia
   
 <div align="left">
 <h3>🧰 Lenguajes y herramientas</h3>
