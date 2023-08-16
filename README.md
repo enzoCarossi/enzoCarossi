@@ -49,6 +49,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="JAVA" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="workbench" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="40" height="40">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs" width="40" height="40">
 </div>
 
 ---
